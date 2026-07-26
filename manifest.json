@@ -1,7 +1,7 @@
 {
   "name": "Carnet de famille",
   "short_name": "Carnet",
-  "start_url": ".",
+  "start_url": "./?f=fu6w674wvpla",
   "scope": ".",
   "display": "standalone",
   "background_color": "#EEF2ED",
